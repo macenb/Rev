@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Ghidra
+Exec=/fsg/macen/Documents/ghidra/ghidra_11.0_PUBLIC/ghidraRun
+Icon=/fsg/macen/Documents/ghidra/ghidra_11.0_PUBLIC/docs/images/GHIDRA_1.png
+Terminal=false
+StartupWMClass=Ghidra
+Type=Application
